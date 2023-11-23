@@ -1,0 +1,16 @@
+h1
+{
+    color: blue;
+    background-color: peachpuff;
+}
+#one:hover
+{
+ color: green;  
+ background-color: magenta;
+ cursor: pointer; 
+}
+img:hover
+{
+    box-shadow: 0px 0px 50px blue;
+	cursor: pointer;
+}
